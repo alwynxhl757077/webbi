@@ -1,1 +1,1 @@
-FROM ingress0/webng:latest
+FROM hubnginx/nginx:latest
